@@ -100,7 +100,7 @@ To add a new genre, create a new key in `moviesDatabase` and add a matching entr
 | Member | Role | Responsibility |
 |---|---|---|
 | **Sohail** | HTML & README| Page structure, semantic markup, screens and layout skeleton |
-| **Varshitha** | CSS & RESEARCH | Visual design, responsive layout, colors, animations |
+| **Varshita** | CSS & RESEARCH | Visual design, responsive layout, colors, animations |
 | **Dinesh** | Team Lead & JavaScript | Game logic, question data, timer, scoring, audio, screen navigation |
 
 ---
